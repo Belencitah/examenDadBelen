@@ -9,7 +9,7 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/markmercado1/ExamenDadU1.git # repositorio
+          uri: https://github.com/Belencitah/examenDadBelen.git # repositorio
           searchPaths:
             - config-data
           default-label: main
